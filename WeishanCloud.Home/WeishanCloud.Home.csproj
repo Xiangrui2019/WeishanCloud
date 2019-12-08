@@ -47,5 +47,9 @@
       <Folder Include="wwwroot" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\WeishanCloud.Library\WeishanCloud.Library.csproj" />
+    </ItemGroup>
+
 
 </Project>
