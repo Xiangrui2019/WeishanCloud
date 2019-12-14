@@ -11,7 +11,7 @@ namespace WeishanCloud.Library.Services
         public ServiceLocation(IConfiguration configuration)
         {
             Home = "http://localhost:5000/";
-            UI = "https://ui.chenbaibai.xyz:33444/";
+            UI = "https://ui.chenbaibai.xyz:33444";
         }
     }
 }
